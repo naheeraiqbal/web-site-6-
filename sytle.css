@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} 
+.logo-img{
+    height:30px;
+    width:200px;
+    object-fit:cover;
+}
+.btn{
+  border: none;
+}
+
+.hero-section{
+  background: url(image/image\ 3.avif);
+  height: 130vh;
+  width: auto;
+
+}
+.text{
+  color: aliceblue;
+  padding-top: 110vh;
+  margin: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.row-1{
+  display: flex;
+ 
+  margin: 10px;
+  padding: 10px;
+}
+.img{
+  
+  width: 400px; 
+  height: 400px;  
+  object-fit: contain; 
+
+}
+.para{
+  display: flex;
+  margin: 10px;
+  padding: 10px;
+  gap: 20px;
+}
+
+
+
+
+
+
+ 
