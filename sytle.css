@@ -122,6 +122,7 @@ ul{
 }
 
 
+
 .bbtn{
   color: rgb(137, 128, 128);;
   margin: 20px;
@@ -163,7 +164,7 @@ ul{
 
 
 .footer-box ul li:hover {
-  color: rgb(159, 85, 6);
+  color: rgb(187, 68, 4);
   transform: translateX(5px);
 }
 
@@ -257,3 +258,11 @@ ul{
   }
 }
 
+
+.contaniner-p .footer-bottom{
+  background-color: white;
+  color: #111;
+  margin: 40px;
+  
+
+}
